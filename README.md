@@ -80,7 +80,8 @@ Para instalar apenas o visual original:
 
 | Função | Cor |
 |---|---|
-| texto principal | `#F2EAF0` |
+| respostas da Capri | `#E5C2E8` |
+| texto técnico e geral | `#F2EAF0` |
 | acento e função | `#70D9E5` |
 | estrutura e palavras-chave | `#C3A0F2` |
 | sucesso e adição | `#55D99B` |
