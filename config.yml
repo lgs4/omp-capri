@@ -1,0 +1,22 @@
+setupVersion: 2
+modelRoles:
+  smol: openrouter/deepseek/deepseek-v4.1-flash-1017:max
+  default: openai-codex/gpt-daybreak-blue-latest:high
+defaultThinkingLevel: auto
+theme:
+  dark: capri-afterdark
+symbolPreset: ascii
+startup:
+  quiet: true
+  checkUpdate: false
+codexResets:
+  autoRedeem: "no"
+dev:
+  autoqaConsent: denied
+task:
+  agentModelOverrides:
+    task: "@smol"
+    sonic: "@smol"
+    scout: "@smol"
+skills:
+  ignoredSkills: []

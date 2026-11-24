@@ -1,0 +1,6 @@
+providers:
+  openrouter:
+    api: openai-completions
+    modelOverrides:
+      deepseek/deepseek-v4.1-flash-1017:
+        api: openai-completions
