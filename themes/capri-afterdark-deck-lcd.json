@@ -2,24 +2,24 @@
   "$schema": "https://raw.githubusercontent.com/can1357/oh-my-pi/v18.16.0/packages/tui/src/theme/theme-schema.json",
   "name": "capri-afterdark-deck-lcd",
   "vars": {
-    "background": "#120F16",
-    "surface": "#211A24",
-    "surfaceSuccess": "#10281F",
-    "surfaceError": "#32151C",
-    "foreground": "#F2EAF0",
-    "assistant": "#E5C2E8",
-    "secondary": "#C9BDC7",
-    "dimmed": "#918390",
-    "border": "#66536A",
-    "accent": "#70D9E5",
-    "blue": "#7CA8FF",
-    "magenta": "#D874A8",
-    "violet": "#C3A0F2",
-    "violetMuted": "#9A7FC0",
-    "green": "#55D99B",
-    "greenSoft": "#7AE4B7",
-    "warning": "#F0D36A",
-    "error": "#FF667A"
+    "background": "#0B0516",
+    "surface": "#180A1D",
+    "surfaceSuccess": "#082A18",
+    "surfaceError": "#330915",
+    "foreground": "#F9F6F9",
+    "assistant": "#09F370",
+    "secondary": "#F6B6A0",
+    "dimmed": "#9B7D8F",
+    "border": "#7A0B30",
+    "accent": "#FB418C",
+    "blue": "#5B8CFF",
+    "magenta": "#D23DC0",
+    "violet": "#C15FEA",
+    "violetMuted": "#B04DE8",
+    "green": "#09F370",
+    "greenSoft": "#75FFA9",
+    "warning": "#F6B6A0",
+    "error": "#FB0143"
   },
   "colors": {
     "accent": "accent",
@@ -103,13 +103,13 @@
     "infoBg": "border"
   },
   "terminal": {
-    "background": "#120F16",
-    "foreground": "#F2EAF0",
-    "chrome": "#120F16",
-    "widget": "#211A24",
+    "background": "#0B0516",
+    "foreground": "#F9F6F9",
+    "chrome": "#0B0516",
+    "widget": "#180A1D",
     "ansi": [
-      "#1A161D", "#E05268", "#4CCB8E", "#D7BA58", "#6F9DEB", "#BD79D5", "#57BCC9", "#D8CDD6",
-      "#918390", "#FF667A", "#72E4AA", "#F0D36A", "#7CA8FF", "#D874A8", "#70D9E5", "#FFF7FB"
+      "#0B0516", "#C70C42", "#09C95F", "#E7A98F", "#4E78D8", "#C515AB", "#4D8BFF", "#E8E1E7",
+      "#9B7D8F", "#FB0143", "#09F370", "#F6B6A0", "#5B8CFF", "#FB418C", "#66A6FF", "#F9F6F9"
     ]
   },
   "symbols": {
